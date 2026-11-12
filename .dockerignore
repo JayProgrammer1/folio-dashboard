@@ -1,0 +1,9 @@
+node_modules
+.next
+artifacts
+.git
+.env
+.env.*
+*.log
+scripts
+flutter-webview
