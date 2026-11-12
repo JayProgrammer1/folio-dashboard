@@ -5,7 +5,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 /// STEP 1: Put your Folio URL here.
 /// While testing you can use the sandbox preview link; before publishing the
 /// app, deploy Folio (see the root README) and paste the permanent URL.
-const String folioUrl = 'https://3000-itotc1172tp3cq0jjjclk.e2b.app';
+const String folioUrl = 'https://folio-dashboard-seven.vercel.app';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
